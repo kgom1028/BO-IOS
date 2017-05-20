@@ -1,0 +1,42 @@
+PODS:
+  - AppsFlyer-SDK (4.6.1)
+  - AppsFlyerFramework (4.6.5)
+  - Firebase (3.14.0):
+    - Firebase/Core (= 3.14.0)
+  - Firebase/Core (3.14.0):
+    - FirebaseAnalytics (= 3.7.0)
+    - FirebaseCore (= 3.5.1)
+  - FirebaseAnalytics (3.7.0):
+    - FirebaseCore (~> 3.5)
+    - FirebaseInstanceID (~> 1.0)
+    - GoogleToolboxForMac/NSData+zlib (~> 2.1)
+  - FirebaseCore (3.5.1):
+    - GoogleToolboxForMac/NSData+zlib (~> 2.1)
+  - FirebaseInstanceID (1.0.9)
+  - GoogleToolboxForMac/Defines (2.1.1)
+  - GoogleToolboxForMac/NSData+zlib (2.1.1):
+    - GoogleToolboxForMac/Defines (= 2.1.1)
+  - IMYWebView (0.8.1)
+  - SwiftGifOrigin (1.6.1)
+
+DEPENDENCIES:
+  - AppsFlyer-SDK
+  - AppsFlyerFramework
+  - Firebase
+  - IMYWebView
+  - SwiftGifOrigin (~> 1.6.1)
+
+SPEC CHECKSUMS:
+  AppsFlyer-SDK: ef99bca272ec93af56a4293ea4d2e0a81d3a37d5
+  AppsFlyerFramework: e35bfb296fa7fed068ea50361ed03f6afdc7d405
+  Firebase: 85a581fb04e44f63ae9f4fbc8d6dabf4a4c18653
+  FirebaseAnalytics: 0d1b7d81d5021155be37702a94ba1ec16d45365d
+  FirebaseCore: 225d40532489835a034b8f4e2c9c87fbf4f615a2
+  FirebaseInstanceID: 2d0518b1378fe9d685ef40cbdd63d2fdc1125339
+  GoogleToolboxForMac: 8e329f1b599f2512c6b10676d45736bcc2cbbeb0
+  IMYWebView: a6a9a52718ba6a44fb927d65f6d60930a8218cea
+  SwiftGifOrigin: d6679d3ebe9df2e049a84bc52582635107b581f6
+
+PODFILE CHECKSUM: c92108befef0d5190e1f960804fca3104c261807
+
+COCOAPODS: 1.1.1

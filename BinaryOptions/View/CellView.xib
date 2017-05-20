@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="11762" systemVersion="16B2657" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11757"/>
+        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="CellView" customModule="BinaryOptions" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="280" height="450"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="hWV-or-Dzf" customClass="CellView" customModule="BinaryOptions" customModuleProvider="target">
+                    <rect key="frame" x="0.0" y="0.0" width="280" height="450"/>
+                    <subviews>
+                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="test.png" translatesAutoresizingMaskIntoConstraints="NO" id="hF5-Zl-GKk">
+                            <rect key="frame" x="0.0" y="0.0" width="280" height="450"/>
+                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                        </imageView>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="XmP-Un-idY">
+                            <rect key="frame" x="119" y="14" width="42" height="21"/>
+                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="21" id="sZP-nl-51I"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                            <color key="textColor" red="0.94892686609999999" green="0.94906681780000002" blue="0.94890779260000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="GtL-Tf-OdD">
+                            <rect key="frame" x="8" y="43" width="264" height="353"/>
+                            <subviews>
+                                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="e0K-ZM-vcW">
+                                    <rect key="frame" x="0.0" y="0.0" width="264" height="582.5"/>
+                                    <subviews>
+                                        <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="6" translatesAutoresizingMaskIntoConstraints="NO" id="G53-Hd-9WX">
+                                            <rect key="frame" x="0.0" y="50" width="264" height="137"/>
+                                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                                            <constraints>
+                                                <constraint firstAttribute="width" secondItem="G53-Hd-9WX" secondAttribute="height" multiplier="327:170" id="Wh3-r9-Ccq"/>
+                                            </constraints>
+                                        </imageView>
+                                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="YcG-Ue-rT9">
+                                            <rect key="frame" x="0.0" y="187" width="264" height="385.5"/>
+                                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                                            <string key="text">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+                                            <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                            <color key="textColor" red="0.94892686609999999" green="0.94906681780000002" blue="0.94890779260000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                            <nil key="highlightedColor"/>
+                                        </label>
+                                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Lorem Ipsum is simply dummy text of the printing and typesetting industry." textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="dpS-7O-R7m">
+                                            <rect key="frame" x="0.0" y="0.0" width="264" height="36"/>
+                                            <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                                            <color key="textColor" red="0.94892686609999999" green="0.94906681780000002" blue="0.94890779260000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                            <nil key="highlightedColor"/>
+                                        </label>
+                                    </subviews>
+                                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                                    <constraints>
+                                        <constraint firstItem="G53-Hd-9WX" firstAttribute="top" secondItem="dpS-7O-R7m" secondAttribute="bottom" constant="14" id="2dD-cB-W9o"/>
+                                        <constraint firstAttribute="trailing" secondItem="G53-Hd-9WX" secondAttribute="trailing" id="8qZ-QZ-pNZ"/>
+                                        <constraint firstItem="YcG-Ue-rT9" firstAttribute="top" secondItem="G53-Hd-9WX" secondAttribute="bottom" id="9Kw-7Y-elo"/>
+                                        <constraint firstItem="dpS-7O-R7m" firstAttribute="top" secondItem="e0K-ZM-vcW" secondAttribute="top" id="AtD-2q-pO8"/>
+                                        <constraint firstItem="YcG-Ue-rT9" firstAttribute="leading" secondItem="e0K-ZM-vcW" secondAttribute="leading" id="GTH-tU-8Ui"/>
+                                        <constraint firstItem="dpS-7O-R7m" firstAttribute="leading" secondItem="e0K-ZM-vcW" secondAttribute="leading" id="hCT-dw-93w"/>
+                                        <constraint firstAttribute="trailing" secondItem="dpS-7O-R7m" secondAttribute="trailing" id="mSq-7Y-Suc"/>
+                                        <constraint firstItem="G53-Hd-9WX" firstAttribute="leading" secondItem="e0K-ZM-vcW" secondAttribute="leading" id="npa-wO-wGU"/>
+                                        <constraint firstAttribute="trailing" secondItem="YcG-Ue-rT9" secondAttribute="trailing" id="uLX-K7-Sa6"/>
+                                        <constraint firstAttribute="bottom" secondItem="YcG-Ue-rT9" secondAttribute="bottom" constant="10" id="yjr-OM-3Yq"/>
+                                    </constraints>
+                                </view>
+                            </subviews>
+                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                            <constraints>
+                                <constraint firstAttribute="trailing" secondItem="e0K-ZM-vcW" secondAttribute="trailing" id="UrI-Hm-T1b"/>
+                                <constraint firstItem="e0K-ZM-vcW" firstAttribute="width" secondItem="GtL-Tf-OdD" secondAttribute="width" id="cQr-eQ-eK9"/>
+                                <constraint firstItem="e0K-ZM-vcW" firstAttribute="leading" secondItem="GtL-Tf-OdD" secondAttribute="leading" id="fNK-BV-UXe"/>
+                                <constraint firstItem="e0K-ZM-vcW" firstAttribute="top" secondItem="GtL-Tf-OdD" secondAttribute="top" id="p57-iN-9cO"/>
+                                <constraint firstAttribute="bottom" secondItem="e0K-ZM-vcW" secondAttribute="bottom" id="xIM-YV-RVv"/>
+                            </constraints>
+                        </scrollView>
+                        <pageControl opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" numberOfPages="3" translatesAutoresizingMaskIntoConstraints="NO" id="h1f-Ez-zVR">
+                            <rect key="frame" x="120.5" y="403" width="39" height="37"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="37" id="j91-Be-rUq"/>
+                            </constraints>
+                        </pageControl>
+                    </subviews>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                    <constraints>
+                        <constraint firstItem="hF5-Zl-GKk" firstAttribute="top" secondItem="hWV-or-Dzf" secondAttribute="top" id="5rS-nJ-itI"/>
+                        <constraint firstItem="GtL-Tf-OdD" firstAttribute="top" secondItem="XmP-Un-idY" secondAttribute="bottom" constant="8" id="7wF-AC-P96"/>
+                        <constraint firstAttribute="trailing" secondItem="GtL-Tf-OdD" secondAttribute="trailing" constant="8" id="DqK-3L-NSk"/>
+                        <constraint firstItem="XmP-Un-idY" firstAttribute="centerX" secondItem="hWV-or-Dzf" secondAttribute="centerX" id="GZ2-Ri-1xC"/>
+                        <constraint firstItem="GtL-Tf-OdD" firstAttribute="leading" secondItem="hWV-or-Dzf" secondAttribute="leading" constant="8" id="HT2-f5-sOd"/>
+                        <constraint firstItem="XmP-Un-idY" firstAttribute="top" secondItem="hWV-or-Dzf" secondAttribute="top" constant="14" id="SB0-BO-IxW"/>
+                        <constraint firstAttribute="bottom" secondItem="h1f-Ez-zVR" secondAttribute="bottom" constant="10" id="SKb-mw-2ag"/>
+                        <constraint firstAttribute="bottom" secondItem="GtL-Tf-OdD" secondAttribute="bottom" constant="54" id="hep-Im-93V"/>
+                        <constraint firstAttribute="trailing" secondItem="hF5-Zl-GKk" secondAttribute="trailing" id="mlz-jH-rTw"/>
+                        <constraint firstItem="h1f-Ez-zVR" firstAttribute="centerX" secondItem="hWV-or-Dzf" secondAttribute="centerX" id="pkW-Tn-rVC"/>
+                        <constraint firstAttribute="bottom" secondItem="hF5-Zl-GKk" secondAttribute="bottom" id="tGF-VV-k5b"/>
+                        <constraint firstItem="hF5-Zl-GKk" firstAttribute="leading" secondItem="hWV-or-Dzf" secondAttribute="leading" id="z2N-Dp-uak"/>
+                    </constraints>
+                    <connections>
+                        <outlet property="bgImage" destination="hF5-Zl-GKk" id="wPx-6q-tgR"/>
+                        <outlet property="ivImage" destination="G53-Hd-9WX" id="82J-OQ-5Uf"/>
+                        <outlet property="lblDesx" destination="YcG-Ue-rT9" id="uXh-LJ-pls"/>
+                        <outlet property="lblSubTitle" destination="dpS-7O-R7m" id="lT9-W0-Dje"/>
+                        <outlet property="lblTitle" destination="XmP-Un-idY" id="rGw-9M-Qc5"/>
+                        <outlet property="page" destination="h1f-Ez-zVR" id="s7l-33-Udo"/>
+                    </connections>
+                </view>
+            </subviews>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="hWV-or-Dzf" secondAttribute="bottom" id="1UQ-jX-oWH"/>
+                <constraint firstItem="hWV-or-Dzf" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="NWY-xZ-hgY"/>
+                <constraint firstAttribute="trailing" secondItem="hWV-or-Dzf" secondAttribute="trailing" id="W12-nx-8ew"/>
+                <constraint firstItem="hWV-or-Dzf" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="mcz-JI-jA4"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="bgImage" destination="hF5-Zl-GKk" id="lbv-Db-kRi"/>
+                <outlet property="ivImage" destination="G53-Hd-9WX" id="On9-7c-d72"/>
+                <outlet property="lblDesx" destination="YcG-Ue-rT9" id="J2g-MP-bx4"/>
+                <outlet property="lblSubTitle" destination="dpS-7O-R7m" id="nKI-dv-DMD"/>
+                <outlet property="lblTitle" destination="XmP-Un-idY" id="Koi-8d-W2b"/>
+                <outlet property="page" destination="h1f-Ez-zVR" id="4Nz-wd-Iax"/>
+            </connections>
+            <point key="canvasLocation" x="-21" y="-57"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="6" width="439" height="319"/>
+        <image name="test.png" width="150" height="200"/>
+    </resources>
+</document>

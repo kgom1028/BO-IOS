@@ -1,0 +1,41 @@
+/* 
+  Localizable.strings
+  BinaryOptions
+
+  Created by BoHuang on 9/17/16.
+  Copyright © 2016 ITLove007. All rights reserved.
+*/
+"exit" = "出口";
+"continue" = "继续";
+"chinese" = "中文";
+"english" = "英语";
+"option_1_txt"="演示注册表单";
+"option_2_txt"="30％的促销折扣";
+"option_3_txt"="免费$ 1000个演示";
+"option_4_txt"="$100,000个锦标赛";
+"option_5_txt"="IQ选项机器人";
+"option_6_txt"="谷歌播放";
+"notification_txt"="通知";
+"binary_1_txt"="英语";
+"binary_2_txt"="俄语";
+"binary_3_txt"="西班牙语";
+"binary_4_txt"="法国语";
+"binary_5_txt"="德语";
+"binary_1_url"="http://goo.gl/NGlSC7";
+"binary_2_url"="http://goo.gl/LofkZL";
+"binary_3_url"="http://goo.gl/fAhzwX";
+"binary_4_url"="http://goo.gl/2gfrzx";
+"binary_5_url"="http://goo.gl/C6A43n";
+"option_1_url"="http://goo.gl/6ru3Bj";
+"option_2_url"="https://s3.amazonaws.com/scratchypage/example+1/scratchy-chinese.html";
+"option_3_url"="http://goo.gl/E124QQ";
+"option_4_url"="http://goo.gl/0aG0rW";
+"option_5_url"="https://s3.amazonaws.com/scratchypage/example+1/chinese-app-download.html";
+"option_6_url"="mailto:promos@iqoptionpromo.com?subject=Send%20me%20my%20exclusive%20IQ%20Option%20Robot%20Registration%20Email%20for%20Desktop%20PC";
+"binary_1"="binary_splash_1";
+"binary_2"="binary_splash_2";
+"binary_3"="binary_splash_3";
+"binary_4"="binary_splash_4";
+"binary_5"="binary_splash_5";
+"loading"="loading";
+"loading_anim"="loading_anim";

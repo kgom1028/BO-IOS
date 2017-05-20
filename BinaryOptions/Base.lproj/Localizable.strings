@@ -1,0 +1,90 @@
+/* 
+  Localizable.strings
+  BinaryOptions
+
+  Created by BoHuang on 9/17/16.
+  Copyright © 2016 ITLove007. All rights reserved.
+*/
+"continue_iq"="Continue to IQ Option";
+"alert_redirect"="You will now be redirected to the USA and Worldwide approved Binary Option Auto Trading Robot.";
+
+"english"="English";
+"chinese"="Chinese";
+"russian"="Russian";
+"spanish"="Spanish";
+"french"="French";
+"korean"="Korean";
+"german"="German";
+"italian"="Italian";
+"svenska"="Svenska";
+"norsk"="Norsk";
+"brazilian"="Brazilian";
+"arabic"="Arabic";
+"indonesian"="Indonesian";
+"open_account"="Open Account";
+
+"feedback_mail"="noreply@iqoption.binaryoptionsdevelopers.com";
+"feedback_subject"="IQ Option App Feedback and Inquiry Form (com.kgom.binaryoptionsGP)";
+"mac_desktop_mail"="Send me the link to the IQ Option MacOSX and Windows PC Desktop Site (com.kgom.binaryoptions)";
+"cancel"="Cancel";
+"ok"="Ok";
+"yes"="YES";
+"no"="NO";
+"exit"="EXIT";
+"continue_iq"="Continue to IQ Option";
+"alert_redirect"="You will now be redirected to the USA and Worldwide approved Binary Option Auto Trading Robot. ";
+"iq_robot_url"="https://itunes.apple.com/au/app/binary-options-robot-signals/id1150731981?mt=8";
+"google_play_url"="http://app.appsflyer.com/com.iqoption/?pid=7745&amp;c=com.kgom.binaryoptionsGP";
+
+"exit_txt"="Exit";
+"continue_txt"="Continue";
+"alert_freedemo"="Note: Once you complete the IQ Option FREE Registration, check your email inbox (Also check your SPAM or JUNK folders). And click on the email CONFIRMATION link. Or simply download the app and login with your registration credentials. (Prior to making a deposit, you will need to confirm your registered email)";
+"click_to_continue"="Click To Continue";
+"signup_form"="Demo Sign-Up Form";
+"discount"="30% Promo Discount";
+"free_demo"="Free $1000 Demo";
+"tournament"="$100,000 Tournament";
+"iq_robot"="IQ Option Robot";
+"previous"="PREVIOUS";
+"next"="NEXT";
+"get_it"="GET IT ON";
+"google_play"="Google play";
+"notifications"="Notifications";
+"terms_conditions_url"="https://iqoption.com/cn/terms-and-conditions/terms-conditions";
+"terms_conditions_need"="Please read the terms and conditions and check it.";
+"notification_time_format"="MM/dd/yyyy HH:mm a";
+"basic_tutorial"="BASIC TUTORIAL";
+"video_tutorial"="VIDEO TUTORIAL";
+
+"apple_store_url"="http://app.appsflyer.com/id871125783/?pid=7745&c=com.kgom.binaryoptionsIOS-DOWNLOAD";
+"trading_alert" = "https://blog.iqoption.com/calendar?columns=exc_flags,exc_currency,exc_importance,exc_actual,exc_forecast,exc_previous&category=_employment,_economicActivity,_inflation,_credit,_centralBanks,_confidenceIndex,_balance,_Bonds&importance=3&features=datepicker,timezone&countries=25,6,72,22,17,10,35,43,56,110,11,26,12,4,5&calType=week&timeZone=55&lang=1";
+"weekly_profit"="https://s3.amazonaws.com/iq-option-weekly-stats-url/weekly-stats.html";
+"english_url"="https://iqoption.com/land/register-long/en/?aff=7745&afftrack=IFRAME-REGISTER-LONG-kgom-binaryoptions-22-APRIL-2017-IOS-EN";
+"chinese_url"="https://iqoption.com/land/register-long/cn/?aff=7745&afftrack=IFRAME-REGISTER-LONG-kgom-binaryoptions-22-APRIL-2017-IOS-CN";
+"russian_url"="https://iqoption.com/land/registration/ru/?aff=7745&afftrack=com.kgom.binaryoptionsIOS-ru";
+"thiland_url"="https://iqoption.com/land/register-long/th/?aff=7745&afftrack=IFRAME-REGISTER-LONG-kgom-binaryoptions-22-APRIL-2017-IOS-TH";
+"italian_url"="https://iqoption.com/land/register-long/it/?aff=7745&afftrack=IFRAME-REGISTER-LONG-kgom-binaryoptions-22-APRIL-2017-IOS-IT";
+"german_url"="https://iqoption.com/land/register-long/de/?aff=7745&afftrack=IFRAME-REGISTER-LONG-kgom-binaryoptions-22-APRIL-2017-IOS-DE";
+"indonesian_url"="https://iqoption.com/land/register-long/id/?aff=7745&afftrack=IFRAME-REGISTER-LONG-kgom-binaryoptions-22-APRIL-2017-IOS-ID";
+"french_url"="https://iqoption.com/promo/registration_fr/?aff=7745&afftrack=IFRAME-com.kgom.binaryoptionsIOS-fr";
+"spanish_url"="https://iqoption.com/land/register-long/es/?aff=7745&afftrack=IFRAME-REGISTER-LONG-kgom-binaryoptions-22-APRIL-2017-IOS-ES";
+"arabic_url"="https://iqoption.com/land/register-long/ar/?aff=7745&afftrack=IFRAME-REGISTER-LONG-kgom-binaryoptions-22-APRIL-2017-IOS-AR";
+"brazilian_url"="https://iqoption.com/land/register-long/pt/?aff=7745&afftrack=IFRAME-REGISTER-LONG-kgom-binaryoptions-22-APRIL-2017-IOS-BRAZIL";
+"video_tutorial_url"="https://iqoption.com/en/tutorials?aff=7745&afftrack=com.kgom.binaryoptionsIOS-VIDEOS";
+"korean_url"="https://iqoption.com/land/register-long/ko/?aff=7745&afftrack=IFRAME-REGISTER-LONG-kgom-binaryoptions-22-APRIL-2017-IOS-KO";
+"mac_desktop_url"="https://iqoption.com/land/register-long/en/?aff=7745&afftrack=IFRAME-REGISTER-LONG-kgom-binaryoptions-22-APRIL-2017-IOS-DESKTOP-REGISTRATION-ICON-EN";
+"norsk_url"="https://iqoption.com/land/register-long/no/?aff=7745&afftrack=IFRAME-REGISTER-LONG-kgom-binaryoptions-22-APRIL-2017-IOS-NO";
+"svenska_url"="https://iqoption.com/land/register-long/se/?aff=7745&afftrack=IFRAME-REGISTER-LONG-kgom-binaryoptions-22-APRIL-2017-IOS-SE";
+"portugues_url"="https://iqoption.com/land/register-long/pt/?aff=7745&afftrack=IFRAME-REGISTER-LONG-kgom-binaryoptions-22-APRIL-2017-IOS-PT";
+"tip_1_url"="https://s3.eu-central-1.amazonaws.com/iq-option-top-10-tips/Tip-1/non-farm-tip-1.html";
+"tip_2_url"="https://s3.eu-central-1.amazonaws.com/iq-option-top-10-tips/Tip-2/non-farm-tip-2.html";
+"tip_3_url"="https://s3.eu-central-1.amazonaws.com/iq-option-top-10-tips/Tip-3/tip-3.html";
+"tip_4_url"="https://s3.eu-central-1.amazonaws.com/iq-option-top-10-tips/Tip-4/tip-4.html";
+"tip_5_url"="https://s3.eu-central-1.amazonaws.com/iq-option-top-10-tips/Tip-5/tip-5.html";
+"tip_6_url"="https://s3.eu-central-1.amazonaws.com/iq-option-top-10-tips/Tip-6/tip-6.html";
+"tip_7_url"="https://s3.eu-central-1.amazonaws.com/iq-option-top-10-tips/Tip-7/tip-7.html";
+"tip_8_url"="https://s3.eu-central-1.amazonaws.com/iq-option-top-10-tips/Tip-8/tip-8.html";
+"tip_9_url"="https://s3.eu-central-1.amazonaws.com/iq-option-top-10-tips/Tip-9/tip-9.html";
+"tip_10_url"="https://s3.eu-central-1.amazonaws.com/iq-option-top-10-tips/Tip-10/tip-10-contact.html";
+"buy_or_sell"="https://s3.eu-central-1.amazonaws.com/iq-option-top-10-tips/sentiment-index.html";
+"trader_of_week"="https://s3.amazonaws.com/iq-option-weekly-stats-url/weekly-stats.html";
